@@ -1,6 +1,6 @@
 {
-  "name": "@whitespace/storybook-addon-html",
-  "version": "5.0.0",
+  "name": "@reapit/storybook-addon-html",
+  "version": "5.0.1",
   "description": "A Storybook addon that extracts and displays compiled syntax-highlighted HTML",
   "main": "out/preset.js",
   "files": [
@@ -51,7 +51,7 @@
     "@babel/parser": "^7.13.12",
     "@storybook/api": "^6.1.21",
     "@storybook/components": "^6.1.21",
-    "prettier": "^2.2.1",
+    "prettier": "~2.2.1",
     "react-syntax-highlighter": "^15.4.3"
   },
   "publishConfig": {
