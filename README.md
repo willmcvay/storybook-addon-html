@@ -1,3 +1,7 @@
+**Fork of original module**
+
+Forked purely to ensure Prettier is tagged at v2.2.X - a regex was introduced in Prettier v2.3.x which causes my Storybook build to fail. Full credit and thanks to the maintainers of this project.
+
 # Storybook Addon HTML
 
 This addon for Storybook adds a tab that displays the compiled HTML for each
